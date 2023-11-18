@@ -1,5 +1,11 @@
-### Hi there 👋
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RenzoSuganuma&layout=compact&theme=synthwave)
+### Unity C#やUnreal Engine C++でのゲーム開発について学習中です。
+<p align="left"> 
+  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RenzoSuganuma&layout=compact&count_private=true&show_icons=true&theme=synthwave" />
+  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=RenzoSuganuma&count_private=true&show_icons=true&show_icons=true&theme=synthwave" />
+</p>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=RenzoSuganuma&theme=onedark&column=7
+)](https://github.com/ryo-ma/github-profile-trophy)
 <!--
 **RenzoSuganuma/RenzoSuganuma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
