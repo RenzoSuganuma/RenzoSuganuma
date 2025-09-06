@@ -1,10 +1,10 @@
 ### Unity C#やDxLib C++でのゲーム開発について学習中です！💪
-![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
-![Rider](https://img.shields.io/badge/Rider-000000.svg?style=for-the-badge&logo=Rider&logoColor=white&color=black&labelColor=crimson)
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
+![Unity](https://img.shields.io/badge/-Unity5,6-000000?logo=unity&logoColor=white)
+![UE](https://img.shields.io/badge/-UnrealEngine4,5-000000?logo=unrealengine&logoColor=white)
+![C](https://img.shields.io/badge/-CLanguage-000000?logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-000000?logo=cplusplus&logoColor=white)
+![C#](https://img.shields.io/badge/C%23--239120?logo=csharp&logoColor=white)
+![Rust](https://img.shields.io/badge/-Rust-000000?logo=rust&logoColor=white)
 
 
 <p align="left"> 
